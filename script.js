@@ -135,6 +135,7 @@ playButton.addEventListener('click', () => {
     playButton.style.display = 'none';
     pauseButton.style.display = 'block';
     fullscreenButton.style.display = 'block'
+    celularContainer.style.background = 'none'
 });
 
 pauseButton.addEventListener('click', () => {
