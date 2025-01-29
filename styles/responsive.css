@@ -348,6 +348,15 @@
     .conteudo-ad-container-1, .container-3, .container-11 {
         background-attachment: scroll;
     }
+
+    .fullscreen-button img {
+        height: 15px;
+        width: 15px;
+    }
+
+    .fullscreen-button {
+        background: none;
+    }
 }
 
 @media screen and (min-width: 576px) and (max-width: 768px){
@@ -697,6 +706,15 @@
 
     .conteudo-ad-container-1, .container-3, .container-11 {
         background-attachment: scroll;
+    }
+
+    .fullscreen-button img {
+        height: 15px;
+        width: 15px;
+    }
+
+    .fullscreen-button {
+        background: none;
     }
 }
 
@@ -1051,6 +1069,15 @@
     .conteudo-ad-container-1, .container-3, .container-11 {
         background-attachment: scroll;
     }
+
+    .fullscreen-button img {
+        height: 15px;
+        width: 15px;
+    }
+
+    .fullscreen-button {
+        background: none;
+    }
 }
 
 @media screen and (min-width: 992.1px) and (max-width: 1220px) {
@@ -1366,6 +1393,15 @@
 
     #btn-menu:hover {
         background: transparent;
+    }
+
+    .fullscreen-button img {
+        height: 15px;
+        width: 15px;
+    }
+
+    .fullscreen-button {
+        background: none;
     }
 }
 
