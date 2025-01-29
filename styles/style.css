@@ -1246,6 +1246,8 @@ body::-webkit-scrollbar-thumb {
     border: 4px solid black; 
     border-radius: 1rem;
     overflow: hidden; 
+    background-size: cover;
+    background-position: center;
 }
 
 .fullscreen-button {
@@ -1278,6 +1280,7 @@ body::-webkit-scrollbar-thumb {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    display: none;
 }
 
 .play-button {
