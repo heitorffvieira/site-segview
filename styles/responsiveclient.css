@@ -1,0 +1,581 @@
+@media screen and (max-width:576px){
+    #img-client-1 {
+        display: none;
+    }
+
+    .text-client-1 {
+        text-align: center;
+        margin-top: 10vh;
+    }
+
+    #fundo-client {
+        margin-top: 10vh;
+    }
+
+    .text-client-1 h1 {
+        width: auto;
+        font-size: 2.2rem;
+        margin-bottom: 0;
+    }
+
+    .text-client-1 p {
+        font-size: 1.1rem;
+    }
+
+    .conteudo-client-1 {
+        padding: 0 5vh;
+    }
+
+    .conteudo-client-2 {
+        display: block;
+        padding: 0 5vh;
+    }
+
+    .conteudo-client-2 h1 {
+        font-size: 2rem;
+        white-space: nowrap;
+        margin-bottom: 0.5vh;
+    }
+
+    .conteudo-client-2 h3 {
+        font-size: 1rem;
+    }
+
+    #auvo {
+        display: none;
+    }
+
+    #defense-img {
+        display: none;
+    }
+
+    .text-client-2 {
+        padding: 0;
+        margin-bottom: 3.6rem;
+    }
+
+    .container {
+        width: 20rem;
+        height: 190px;
+    }
+
+    .container-client-2 {
+        padding: 5vh 0;
+    }
+
+    #prompt {
+        font-size: 16px;
+    }
+
+    .text-client-3 {
+        text-align: center;
+    }
+
+    .text-client-3 h1 {
+        font-size: 2.2rem;
+        white-space: nowrap;
+    }
+
+    .text-client-3 h2, .text-client-3 h3 {
+        font-size: 1rem;
+    }
+
+    .btn-ler-mais {
+        display: block;
+    }
+
+    .text-client-3 h3 {
+        display: none;
+    }
+
+    .container-client-3 {
+        padding: 5vh;
+    }
+
+    .container-cards {
+        display: block;
+    }
+
+    .card {
+        margin: 0 auto;
+        margin-top: 5vh;
+        width: 20rem;
+        height: 40rem;
+        display: grid;
+        gap: 0.5rem;
+        padding: .4em;
+        position: relative;
+    }
+
+    .card img {
+        width: 20rem;
+        height: 40rem;
+    }
+
+    .text-cards {
+        text-align: center;
+    }
+
+    .text-cards h1 {
+        font-size: 2rem;
+        width: auto;
+    }
+
+    .container-client-4 {
+        padding: 7vh 5vh;
+        display: block;
+    }
+
+    .image-client-4 {
+        display: none;
+    }
+
+    .mais-texto-c4 {
+        display: none;
+    }
+
+    .text-client-4 h1 {
+        font-size: 2.2rem;
+        text-align: center;
+    }
+
+    .text-client-4 h2, .text-client-4 h3, .text-client-4 h4 {
+        font-size: 1rem;
+        width: auto;
+    }
+
+    .text-client-4 {
+        display: block;
+    }
+
+    .text-client-1 span {
+        margin-bottom: 0.5vh;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:768px){
+    #img-client-1 {
+        display: none;
+    }
+
+    .text-client-1 {
+        text-align: center;
+        margin-top: 10vh;
+    }
+
+    #fundo-client {
+        margin-top: 10vh;
+    }
+
+    .text-client-1 h1 {
+        width: auto;
+        font-size: 2.2rem;
+    }
+
+    .text-client-1 p {
+        font-size: 1.1rem;
+    }
+
+    .conteudo-client-1 {
+        padding: 0 5vh;
+    }
+
+    .conteudo-client-2 {
+        display: block;
+        padding: 0 5vh;
+    }
+
+    .conteudo-client-2 h1 {
+        font-size: 2rem;
+        white-space: nowrap;
+        margin-bottom: 0.5vh;
+    }
+
+    .conteudo-client-2 h3 {
+        font-size: 1rem;
+    }
+
+    #auvo {
+        display: none;
+    }
+
+    #defense-img {
+        display: none;
+    }
+
+    .text-client-2 {
+        padding: 0;
+        margin-bottom: 3.6rem;
+    }
+
+    .container {
+        width: 20rem;
+        height: 190px;
+    }
+
+    .container-client-2 {
+        padding: 5vh 0;
+    }
+
+    #prompt {
+        font-size: 16px;
+    }
+
+    .text-client-3 {
+        text-align: center;
+    }
+
+    .text-client-3 h1 {
+        font-size: 2.2rem;
+        white-space: nowrap;
+    }
+
+    .text-client-3 h2, .text-client-3 h3 {
+        font-size: 1rem;
+    }
+
+    .btn-ler-mais {
+        display: block;
+    }
+
+    .text-client-3 h3 {
+        display: none;
+    }
+
+    .container-client-3 {
+        padding: 5vh;
+    }
+
+    .container-cards {
+        display: block;
+    }
+
+    .card {
+        margin: 0 auto;
+        margin-top: 5vh;
+        width: 20rem;
+        height: 40rem;
+        display: grid;
+        gap: 0.5rem;
+        padding: .4em;
+        position: relative;
+    }
+
+    .card img {
+        width: 20rem;
+        height: 40rem;
+    }
+
+    .text-cards {
+        text-align: center;
+    }
+
+    .text-cards h1 {
+        font-size: 2rem;
+        width: auto;
+    }
+
+    .container-client-4 {
+        padding: 7vh 5vh;
+        display: block;
+    }
+
+    .image-client-4 {
+        display: none;
+    }
+
+    .mais-texto-c4 {
+        display: none;
+    }
+
+    .text-client-4 h1 {
+        font-size: 2.2rem;
+        text-align: center;
+    }
+
+    .text-client-4 h2, .text-client-4 h3, .text-client-4 h4 {
+        font-size: 1rem;
+        width: auto;
+    }
+
+    .text-client-4 {
+        display: block;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    #img-client-1 {
+        display: none;
+    }
+
+    .text-client-1 {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .text-client-1 h1 {
+        width: auto;
+        font-size: 3rem;
+    }
+
+    .text-client-1 p {
+        font-size: 1.3rem;
+    }
+
+    .conteudo-client-1 {
+        padding: 0 5vh;
+    }
+
+    .conteudo-client-2 {
+        display: block;
+        padding: 0 5vh;
+    }
+
+    .conteudo-client-2 h1 {
+        font-size: 2.8rem;
+        white-space: nowrap;
+        margin-bottom: 0.5vh;
+    }
+
+    .conteudo-client-2 h3 {
+        font-size: 1.1rem;
+    }
+
+    #auvo {
+        display: none;
+    }
+
+    #defense-img {
+        display: none;
+    }
+
+    .text-client-2 {
+        padding: 0;
+        margin-bottom: 3.6rem;
+    }
+
+    .container {
+        width: 20rem;
+        height: 190px;
+    }
+
+    .container-client-2 {
+        padding: 5vh 0;
+    }
+
+    #prompt {
+        font-size: 16px;
+    }
+
+    .text-client-3 {
+        text-align: center;
+    }
+
+    .text-client-3 h1 {
+        font-size: 3rem;
+        white-space: nowrap;
+    }
+
+    .text-client-3 h2, .text-client-3 h3 {
+        font-size: 1.1rem;
+    }
+
+    .btn-ler-mais {
+        display: block;
+    }
+
+    .text-client-3 h3 {
+        display: none;
+    }
+
+    .container-client-3 {
+        padding: 5vh;
+    }
+
+    .container-cards {
+        display: block;
+    }
+
+    .card {
+        margin: 0 auto;
+        margin-top: 5vh;
+        width: 30rem;
+        height: 47rem;
+        display: grid;
+        gap: 0.5rem;
+        padding: .4em;
+        position: relative;
+    }
+
+    .card img {
+        width: 30rem;
+        height: 47rem;
+    }
+
+    .text-cards {
+        text-align: center;
+    }
+
+    .text-cards h1 {
+        font-size: 2rem;
+        width: auto;
+    }
+
+    .container-client-4 {
+        padding: 7vh 5vh;
+        display: block;
+    }
+
+    .image-client-4 {
+        display: none;
+    }
+
+    .mais-texto-c4 {
+        display: none;
+    }
+
+    .text-client-4 h1 {
+        font-size: 3rem;
+        text-align: center;
+    }
+
+    .text-client-4 h2, .text-client-4 h3, .text-client-4 h4 {
+        font-size: 1.1rem;
+        width: auto;
+    }
+
+    .text-client-4 {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1220px){
+    #img-client-1 {
+        display: none;
+    }
+
+    .conteudo-client-1 {
+        text-align: center;
+    }
+
+    #auvo {
+        display: none;
+    }
+
+    .cards-cont-client {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin: 0 auto;
+    }
+
+    .conteudo-client-2 {
+        padding: 0 1vh;
+    }
+
+    .container-client-2 {
+        padding: 7vh 0 12vh 0;
+    }
+
+    #defense-img {
+        display: none;
+    }
+
+    .container-client-3 {
+        text-align: center;
+        padding: 5vh 4vh;
+    }
+
+    .container-cards {
+        display: block;
+    }
+
+    .conteudo-client-3 {
+        padding: 0 3vh;
+    }
+
+    .text-cards h1 {
+        width: auto;
+    }
+
+    .text-cards {
+        text-align: center;
+        margin-bottom: 5vh;
+    }
+
+    .card {
+        margin: 0 auto;
+    }
+
+    .image-client-4 {
+        display: none;
+    }
+
+    .conteudo-client-4 {
+        text-align: center;
+    }
+
+    .container-client-4 {
+        padding: 7vh 10vh;
+    }
+
+    .text-client-4 h2, .text-client-4 h3, .text-client-4 h4 {
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 1220px) and (max-width: 1460px) {
+    .conteudo-client-1 {
+        padding: 0 5rem;
+    }
+    
+    .container-cards {
+        display: block;
+    }
+
+    .text-cards h1 {
+        width: auto;
+    }
+
+    .text-cards {
+        text-align: center;
+        margin-bottom: 5vh;
+    }
+
+    .card {
+        margin: 0 auto;
+    }
+
+    .container-client-4 {
+        overflow: hidden;
+    }
+}
+
+@media screen and (min-width: 1220px) and (max-width: 1350px){
+    .image-client-4 {
+        display: none;
+    }
+
+    .text-client-4 {
+        text-align: center;
+    }
+
+    .text-client-4 h2, .text-client-4 h3, .text-client-4 h4 {
+        width: auto;
+    }
+
+    .text-client-2 {
+        padding: 0 7vh;
+    }
+
+    .conteudo-client-2 {
+        padding: 0 5vh;
+    }
+
+    #auvo {
+        width: 35rem;
+    }
+
+    .cards-cont-client {
+        margin-bottom: 5vh;
+    }
+}
